@@ -88,4 +88,13 @@
    width: 50%;
    height: auto;
  }
+ .last-container{
+   background-color: beige;
+   margin-top: 30px;
+   text-align: center;
+   position: relative;
+ }
  
+ .btn-primary{
+   color: red;
+ }
