@@ -80,3 +80,12 @@
  .new-container .year{
    color: red;
  }
+ .holydays .txt-primary{
+   color: red;
+ }
+ .holydays-image{
+   display: flex;
+   width: 50%;
+   height: auto;
+ }
+ 
