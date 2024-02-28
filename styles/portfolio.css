@@ -67,3 +67,16 @@
    color: darkorange;
    text-justify: auto;
  }
+ .new-container {
+   display: flex;
+   margin-top: 20px;
+ }
+ .new-container .offer-image{
+   margin-top: 20px;
+ }
+ .new-container .tittle{
+   color: brown;
+ }
+ .new-container .year{
+   color: red;
+ }
