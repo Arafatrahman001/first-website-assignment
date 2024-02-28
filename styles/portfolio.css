@@ -59,3 +59,11 @@
     position: absolute;
     color: ;
  }
+ .about-info-container{
+   background-color: antiquewhite;
+   font-size: 20px;
+ }
+ .btn-primary{
+   color: darkorange;
+   text-justify: auto;
+ }
